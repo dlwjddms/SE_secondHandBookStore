@@ -1,0 +1,4 @@
+dlwjddms,c programming,jjeong,cau,1999,1000,good,c programmingdlwjddms
+rose,java,ha,cauu,1998,1000,bad,javarose
+lisa,cookbook,lisa,2020,10000,very good, cookbooklisa
+dlthdgk,money,dlwjddms,2019,5000,bad,dlthdgk
